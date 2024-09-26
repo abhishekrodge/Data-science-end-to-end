@@ -70,3 +70,5 @@ jobs:
           service: my_service
           cluster: flask_app
           wait-for-service-stability: true
+
+          
